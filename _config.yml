@@ -1,0 +1,28 @@
+name: PZPAudio
+favicon: null
+layout_spectrum: 0.024157705483958125
+typography_spectrum: 0.4927273956127465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5077577263582498
+  lightness: 0.27990136039443314
+  saturation: 0.6075085026677698
+  rhythmicContrast: 0.8920882258098572
+purpose: []
