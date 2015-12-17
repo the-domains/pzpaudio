@@ -1,6 +1,6 @@
 name: PZPAudio
 favicon: null
-layout_spectrum: 0.48034
+layout_spectrum: 0.75
 typography_spectrum: 0.62755
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#313131'
-    - '#5a5a5a'
-    - '#dda7fa'
-    - '#ffffff'
-    - '#65bbe9'
-  brandStrength: 0.5077577263582498
-  lightness: 0.125
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+    - '#000000'
+    - '#1a99fc'
+    - '#1169ad'
+    - '#06263f'
+    - '#0b426e'
+  brandStrength: 0.4375
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
