@@ -2,6 +2,7 @@ name: PZPAudio
 favicon: null
 layout_spectrum: 0.75
 typography_spectrum: 0.62755
+title: Home Page
 cta:
   domain: null
   bucket: null
